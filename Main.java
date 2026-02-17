@@ -10,6 +10,7 @@ public class TicTacToe {
     static char currentPlayer = 'X';
 
     public static void main(String[] args) {
+        System.out.println("TIC TAC TOE Game developed by Monty");
         Scanner sc = new Scanner(System.in);
         boolean gameEnded = false;
 
