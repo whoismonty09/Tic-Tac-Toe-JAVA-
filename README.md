@@ -49,4 +49,4 @@ This project is a console-based Tic Tac Toe game developed in Java. Two players 
 ---
 
 ## 👨‍💻 Author
-Developed by 
+Developed by Monty
